@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.menu img {
+    width: 13%;
+}
+
+.home a {
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    position: absolute;
+    width: 2%;
+    height: 4%;
+    left: 15%;
+    top: 6%;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 40px;
+    text-align: center;
+    
+}
+
+.branco:hover {
+    color: #32CD32;
+}
+
+.integrantes a {
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    position: absolute;
+    width: 2%;
+    height: 4%;
+    left: 25%;
+    top: 6%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.branco1:hover {
+    color: #32CD32;
+}
+
+.conteudo p {
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 35px;
+    color: white
+    
+}  
+
+.img1 {
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.img1:hover {
+    -webkit-transform: scale(1.25);
+    transform: scale(1.25);
+}
